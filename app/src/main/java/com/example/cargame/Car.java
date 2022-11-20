@@ -19,6 +19,7 @@ public class Car extends AppCompatActivity {
 
     public Car()
     {
+
         car_left = findViewById(R.id.main_car_left);
         car_mid = findViewById(R.id.main_car_mid);
         car_right = findViewById(R.id.main_car_right);
